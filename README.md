@@ -103,6 +103,7 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
           </ol>
           <div class="carousel-inner">
+           <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
             <div class="carousel-item active">
               <img src="https://cdn.vox-cdn.com/thumbor/7kUDwyC7FvCDI_tjFcLTHjMxITc=/0x0:1053x773/1200x628/filters:focal(526x386:527x387)/cdn.vox-cdn.com/uploads/chorus_asset/file/15086412/hp-michael-bastian.0.0.1417555656.jpg" class="d-block w-100" alt="Reloj 1"width="600" height="300">
             </div>
