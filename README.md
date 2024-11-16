@@ -103,7 +103,7 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-            <img src="./reloj 2.jpg" class="d-block w-100" alt="Reloj 2" width="800" height="450">
+            <img src="./reloj 2.jpg" class="https://static.runnea.com/images/202308/mejores-relojes-deportivos-hombre-listado-apertura-bene-1200x572x80xX.jpg?1"d-block w-100" alt="Reloj 2" width="800" height="450">
             </div>
             <div class="carousel-item">
               <img src="https://static.runnea.com/images/202308/mejores-relojes-deportivos-hombre-listado-apertura-bene-1200x572x80xX.jpg?1" class="d-block w-100" alt="Reloj 2"width="300" height="300">
@@ -119,6 +119,7 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
           </a>
+        </div>
         </div>
     
         <div class="container my-5">
