@@ -80,7 +80,7 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item active">
-                <a class="nav-link" href="https://jd-354.github.io/CONTATANOS-/">Inicio <span class="sr-only"></span></a>
+                <a class="nav-link" href="">Inicio</a>
               </li>
               <li class="nav-item">
             <a class="nav-link" href="https://jd-354.github.io/SOBRE-NOSOTROS-/">Sobre Nosotros</a>
@@ -91,7 +91,6 @@
             </ul>
           </div>
         </nav>
-
         <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
       </header>
     
@@ -103,15 +102,13 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
           </ol>
           <div class="carousel-inner">
-           <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
             <div class="carousel-item active">
-              <img src="https://cdn.vox-cdn.com/thumbor/7kUDwyC7FvCDI_tjFcLTHjMxITc=/0x0:1053x773/1200x628/filters:focal(526x386:527x387)/cdn.vox-cdn.com/uploads/chorus_asset/file/15086412/hp-michael-bastian.0.0.1417555656.jpg" class="d-block w-100" alt="Reloj 1"width="600" height="300">
+              <img src="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg" class="d-block w-100" alt="Reloj 1"width="300" height="300">
             </div>
             <div class="carousel-item">
-              <img src="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg" class="d-block w-100" alt="Reloj 2"width="300" height="300">
+              <img src="https://static.runnea.com/images/202308/mejores-relojes-deportivos-hombre-listado-apertura-bene-1200x572x80xX.jpg?1" class="d-block w-100" alt="Reloj 2"width="300" height="300">
             </div>
-            <div class="carousel-item">
-              <img src="https://static.runnea.com/images/202308/mejores-relojes-deportivos-hombre-listado-apertura-bene-1200x572x80xX.jpg?1" " class="d-block w-100" alt="Reloj 3" width="500" height="300">
+            <div class="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg" class="d-block w-100" alt="Reloj 3" width="500" height="300">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
