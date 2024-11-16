@@ -91,6 +91,7 @@
             </ul>
           </div>
         </nav>
+
         <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
       </header>
     
@@ -103,12 +104,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-            <img src="https://static.runnea.com/images/202308/mejores-relojes-deportivos-hombre-listado-apertura-bene-1200x572x80xX.jpg?1" class="d-block w-100" alt="Reloj 1" width="300" height="300">
+              <img src="https://watchfluence.com/wp-content/uploads/2024/04/v2-agkrn-0u4x7-1024x702.jpg" alt="Reloj 1"width="600" height="300">
             </div>
             <div class="carousel-item">
-              <img src="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg"  class="d-block w-100" alt="Relo2" width="300" height="40"> 
+              <img src="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg" class="d-block w-100" alt="Reloj 2"width="300" height="300">
             </div>
-            <img src="https://watchfluence.com/wp-content/uploads/2024/04/v2-agkrn-0u4x7-1024x702.jpg"  class="d-block w-100" alt="Relo3" width="300" height="300"> 
+            <div class="carousel-item">
+              <img src="https://static.runnea.com/images/202308/mejores-relojes-deportivos-hombre-listado-apertura-bene-1200x572x80xX.jpg?1" " class="d-block w-100" alt="Reloj 3" width="500" height="300">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -120,7 +122,8 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
-    <div class="container my-5">
+    
+        <div class="container my-5">
           <h2 class="text-center mb-4">Nuestros Relojes</h2>
           <div class="row">
             <div class="col-md-4 mb-4">
@@ -209,3 +212,4 @@
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
+</html>
