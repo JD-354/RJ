@@ -106,7 +106,7 @@
             <img src="./reloj 2.jpg" class="d-block w-100" alt="Reloj 1" width="800" height="450">
             </div>
             <div class="carousel-item">
-              <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350"> 
+              <img src="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg"  class="d-block w-100" width="350" height="350"> 
             </div>
             <div class="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg" class="d-block w-100" alt="Reloj 3" width="500" height="300">
             </div>
