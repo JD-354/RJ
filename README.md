@@ -103,7 +103,6 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img src="https://macrotehnicus.ro/wp-content/uploads/2021/10/11-cele-mai-bune-smartwatch-uri.jpg" class="d-block w-100" alt="Reloj 1"width="300" height="300">
             </div>
             <div class="carousel-item">
               <img src="https://static.runnea.com/images/202308/mejores-relojes-deportivos-hombre-listado-apertura-bene-1200x572x80xX.jpg?1" class="d-block w-100" alt="Reloj 2"width="300" height="300">
@@ -210,4 +209,3 @@
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
-</html>
