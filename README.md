@@ -11,6 +11,9 @@
           height: 200px;
           object-fit: cover;
         }
+             responsive-image-2 {
+            width: 100%;
+            height: auto;
 
         body {
             font-family: 'Arial', sans-serif;
@@ -77,7 +80,7 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-              <li class="nav-item active">
+              <li class="nav-item ">
                 <a class="nav-link" href="https://jd-354.github.io/RJ/">Inicio</a>
               </li>
               <li class="nav-item">
@@ -89,10 +92,10 @@
             </ul>
           </div>
         </nav>
-
+<div class="responsive-image-2">
         <img src="https://blog-inolvidable.joyeriasbizzarro.com/hubfs/2024_MIDO_Blog_BannerHome_Desk.jpg"  class="d-block w-100" width="350" height="350">
       </header>
-    
+</div>
       <main>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
