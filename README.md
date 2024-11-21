@@ -194,7 +194,20 @@
           </div>
         </div>
 
-    
+    <footer class="bg-dark text-white py-4">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              <p>&copy; 2024 Reloj Maestro. Todos los derechos reservados.</p>
+            </div>
+            <div class="col-md-6 text-md-right">
+              <a href="#" class="text-white mr-3">Sobre Nosotros</a>
+              <a href="#" class="text-white mr-3">Contacto</a>
+              <a href="#" class="text-white">Política de Privacidad</a>
+            </div>
+          </div>
+        </div>
+      </footer>
        
     
       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
