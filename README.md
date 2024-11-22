@@ -63,6 +63,26 @@
                 grid-template-columns: repeat(2, 1fr);
             }
         }
+        @media (max-width: 768px) {
+            .main-content {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 480px) {
+            nav ul {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            nav li {
+                margin: 10px 0;
+            }
+
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+        }
 
         /* Móviles */
         @media screen and (max-width: 480px) {
@@ -72,7 +92,6 @@
         }
 
       </style>
-    </head>
     <body>
       <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
